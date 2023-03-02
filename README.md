@@ -13,6 +13,10 @@ Aktualnie, w ramach doskonalenia swoich umiejętności, uczestniczyłam w szkole
 - Certyfikat ukończenia szkolenia „Specjalność Programista - Podstawy Pythona” – Akademia Kodu
 - Certyfikat ukończenia kursy „Python dla początkujących” - Udemy
 
+## Webinary 
+- Maraton testowania - GoIT
+- Kurs testowanie oprogramowania - kanał Technika Programowania
+
 ## Języki oprogramowania
 - Python - poziom podstawowy
 - SQL - poziom podstawowy
@@ -20,6 +24,7 @@ Aktualnie, w ramach doskonalenia swoich umiejętności, uczestniczyłam w szkole
 ## Umiejętności techniczne
 - Jira - poziom podstawowy
 - Mantis - poziom podstawowy
+- TestRail - poziom podstawowy
 - Quantum GIS - poziom podstawowy
 - ArcGIS - poziom średniozaawansowany
 - MS Office - poziom średniozaawansowany
