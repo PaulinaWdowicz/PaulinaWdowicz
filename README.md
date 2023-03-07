@@ -4,9 +4,9 @@ My name is Paulina Wdowicz. In 2019, I graduated with the title of MSc. at the W
 
 Currently, as part of improving my skills, I participated in training in SQL and software testing. What's more, I'm taking an upper-intermediate English course. I am open to new challenges. I would love to use my previous experience in new projects and gain new skills in the IT area.
 
-Contact me:
-paulina.wdowicz1@gmail.com
-https://inkedin.com/in/paulina-wdowicz
+### Contact me:
+- paulina.wdowicz1@gmail.com
+- https://inkedin.com/in/paulina-wdowicz
 
 ## Courses
 - Fundamentals of Software Testing - QATestLab
