@@ -1,30 +1,35 @@
-### O mnie
+### About me
 
-Nazywam się Paulina Wdowicz. W 2019 roku ukończyłam studia z tytułem mgr inż. na Politechnice Warszawskiej (Wydział Instalacji Budowlanych, Wydział Hydrotechniki i Inżynierii Środowiska). Od ukończenia studiów pracowałam w zakresie gospodarki odpadami w dwóch największych warszawskich przedsiębiorstwach zajmujących się gospodarką odpadami: MPO sp .z o.o. oraz „BYŚ” Wojciech Byśkiniewicz. Praca na powyższych stanowiskach związana z ewidencją odpadów wymagała ode mnie skrupulatności oraz powtarzalności. Dodatkowo, na przełomie 2019 i 2020 roku miałam okazję uczestniczyć w testach aplikacji webowej BDO (Baza danych o produktach i opakowaniach oraz o gospodarce odpadami).
+My name is Paulina Wdowicz. In 2019, I graduated with the title of MSc. at the Warsaw University of Technology (Faculty of Building Installations, Faculty of Hydro and Environmental Engineering). Since graduation, I have worked in the field of waste management in the two largest waste management companies in Warsaw: MPO sp .z o.o. and "BYŚ" by Wojciech Byśkiniewicz. Working in the above positions related to waste records required meticulousness and repeatability. In addition, at the turn of 2019 and 2020, I had the opportunity to participate in the tests of the BDO web application (Database on products, packaging and waste management).
 
-Aktualnie, w ramach doskonalenia swoich umiejętności, uczestniczyłam w szkoleniu z zakresu SQL i testowania oprogramowania. Co więcej, uczestniczę w kursie języka angielskiego na poziomie upper-intermediate. Jestem otwarta na nowe wyzwania. Bardzo chciałabym wykorzystać dotychczasowe doświadczenie w nowych projektach i zdobyć nowe umiejętności w obszarze IT.
+Currently, as part of improving my skills, I participated in training in SQL and software testing. What's more, I'm taking an upper-intermediate English course. I am open to new challenges. I would love to use my previous experience in new projects and gain new skills in the IT area.
 
-## Kursy
+Contact me:
+paulina.wdowicz1@gmail.com
+https://inkedin.com/in/paulina-wdowicz
+
+## Courses
 - Fundamentals of Software Testing - QATestLab
-- Podstawy manualnego testowania oprogramowania - Udemy
-- Kurs Jira od podstaw - zarządzanie projektami - Udemy
-- Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy
+- Manual Software Testing Basics - Udemy
+- Jira Beginners Course - Project Management - Udemy
+- Testing marathon - GoIT
+- Introduction to SQL: Data Management and Querying - Khan Academy
 - Introduction to Python – 365 DataScience
-- Certyfikat ukończenia szkolenia „Specjalność Programista - Podstawy Pythona” – Akademia Kodu
-- Certyfikat ukończenia kursy „Python dla początkujących” - Udemy
+- Certificate of completion of the training "Specialty Programmer - Basics of Python" - Code Academy
+- Certificate of Completion "Python for Beginners" Courses - Udemy
 
-## Webinary 
-- Maraton testowania - GoIT
-- Kurs testowanie oprogramowania - kanał Technika Programowania
+## Webinars
+- Testing marathon - GoIT
+- Software testing course - Programming Technique - YouTube
 
-## Języki oprogramowania
-- Python - poziom podstawowy
-- SQL - poziom podstawowy
+## Programming languages
+- Python basic level
+- SQL basic level
 
-## Umiejętności techniczne
-- Jira - poziom podstawowy
-- Mantis - poziom podstawowy
-- TestRail - poziom podstawowy
-- Quantum GIS - poziom podstawowy
-- ArcGIS - poziom średniozaawansowany
-- MS Office - poziom średniozaawansowany
+## Knowledge
+- Jira - basic level
+- Mantis - basic level
+- TestRail - basic level
+- Quantum GIS - basic level
+- ArcGIS - intermediate level
+- MS Office - intermediate level
