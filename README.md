@@ -30,7 +30,8 @@ Currently, as part of improving my skills, I participate in training course of s
 - MS Office - intermediate level
 
 ## Courses
-- [uTest Academy](https://www.utest.com/) - in progress
+- [uTest Academy](https://www.utest.com/) - testing course - in progress
+- [Test.IO](https://tester.test.io/) - testing course - in progress
 - Fundamentals of Software Testing - [QATestLab](https://qatestlab.com/)
 - Manual Software Testing Basics - [Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 - Jira Beginners Course - Project Management - Udemy
