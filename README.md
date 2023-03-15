@@ -10,8 +10,8 @@ Currently, as part of improving my skills, I participate in training course of s
 
 ## Experience in manual testing
 - manual testing of the BDO web application (Database on products, packaging and waste management)
-- uTest Academy - performing manual tests and test cases on crowdtesting platform
-- Test.IO - reproducing test cases
+- [uTest Academy](https://www.utest.com/) - performing manual tests and test cases on crowdtesting platform
+- [Test.IO](https://tester.test.io/) - reproducing test cases
 
 ## My bug report - examples
 - [GEN-1](https://www.dropbox.com/sh/5xittvc8vfcpcto/AACVeFsPimxw6ri-MX2lfLMIa?dl=0)
