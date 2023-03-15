@@ -8,13 +8,35 @@ Currently, as part of improving my skills, I participated in training in SQL and
 - paulina.wdowicz1@gmail.com
 - https://inkedin.com/in/paulina-wdowicz
 
+## Experience in manual testing
+- manual testing of the BDO web application (Database on products, packaging and waste management)
+- uTest Academy - performing manual tests and test cases on crowdtesting platform
+- Test.IO - reproducing test cases
+
+## My bug report - examples
+- [GEN-1](https://www.dropbox.com/sh/5xittvc8vfcpcto/AACVeFsPimxw6ri-MX2lfLMIa?dl=0)
+- [GEN-2 ](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0)
+- [GEN-3](https://www.dropbox.com/sh/prgy0spvgcz66a0/AAD8cOnRz23dJRgCrjiyugtka?dl=0)
+
+## My test case- example
+- [GEN_TEST-1](https://www.dropbox.com/s/p5ijwlecivzgdc0/GEN_TEST-1.xlsx?dl=0)
+
+## Knowledge
+- Jira - basic level
+- Mantis - basic level
+- TestRail - basic level
+- Quantum GIS - basic level
+- ArcGIS - intermediate level
+- MS Office - intermediate level
+
 ## Courses
-- Fundamentals of Software Testing - QATestLab
-- Manual Software Testing Basics - Udemy
+- [uTest Academy]([url](https://www.utest.com/)) - in progress
+- Fundamentals of Software Testing - [QATestLab]([url](https://qatestlab.com/))
+- Manual Software Testing Basics - [Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 - Jira Beginners Course - Project Management - Udemy
-- Testing marathon - GoIT
-- Introduction to SQL: Data Management and Querying - Khan Academy
-- Introduction to Python – 365 DataScience
+- Testing marathon - [GoIT](https://goit.global/pl/)
+- Introduction to SQL: Data Management and Querying - [Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql)
+- Introduction to Python – [365 DataScience](https://365datascience.com/courses/introduction-to-python/)
 - Certificate of completion of the training "Specialty Programmer - Basics of Python" - Code Academy
 - Certificate of Completion "Python for Beginners" Courses - Udemy
 
@@ -25,11 +47,3 @@ Currently, as part of improving my skills, I participated in training in SQL and
 ## Programming languages
 - Python basic level
 - SQL basic level
-
-## Knowledge
-- Jira - basic level
-- Mantis - basic level
-- TestRail - basic level
-- Quantum GIS - basic level
-- ArcGIS - intermediate level
-- MS Office - intermediate level
