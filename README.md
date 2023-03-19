@@ -2,7 +2,7 @@
 
 My name is Paulina Wdowicz. In 2019, I graduated with the title of MSc. at the Warsaw University of Technology (Faculty of Building Installations, Faculty of Hydro and Environmental Engineering). Since graduation, I have worked in the field of waste management in the two largest waste management companies in Warsaw: MPO sp .z o.o. and "BYŚ" by Wojciech Byśkiniewicz. Working in the above positions related to waste records required meticulousness and repeatability. In addition, at the turn of 2019 and 2020, I had the opportunity to participate in the tests of the BDO web application (Database on products, packaging and waste management).
 
-Currently, as part of improving my skills, I participate in training course of software testing on crowdesting platform like uTEST and Test.IO and SQL on W3Schools.com. What's more, I'm taking an upper-intermediate English course. I am open to new challenges. I would love to use my previous experience in new projects and gain new skills in the IT area.
+Currently, as part of improving my skills, I participate in a training course on software testing on crowd-testing platforms like uTEST and Test.IO and SQL on W3Schools.com. What's more, I'm taking an upper-intermediate English course. I am open to new challenges. I would love to use my previous experience in new projects and gain new skills in the IT area.
 
 #### Contact me
 - paulina.wdowicz1@gmail.com
