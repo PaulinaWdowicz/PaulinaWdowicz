@@ -18,7 +18,7 @@ Currently, as part of improving my skills, I participate in training course of s
 - [GEN-2 ](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0)
 - [GEN-3](https://www.dropbox.com/sh/prgy0spvgcz66a0/AAD8cOnRz23dJRgCrjiyugtka?dl=0)
 
-## My test case- example
+## My test case - example
 - [GEN_TEST-1](https://www.dropbox.com/s/p5ijwlecivzgdc0/GEN_TEST-1.xlsx?dl=0)
 
 ## Knowledge
