@@ -47,5 +47,5 @@ Currently, as part of improving my skills, I participate in a training course on
 - Software testing course - Programming Technique - YouTube
 
 ## Programming languages
-- Python basic level
-- SQL basic level
+- Python - basic level
+- SQL - basic level
