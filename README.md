@@ -45,6 +45,7 @@ Currently, as part of improving my skills, I participate in a training course on
 ## Webinars
 - Testing marathon - GoIT
 - Software testing course - Programming Technique - YouTube
+- How to Become a Software Tester - [Twoje Kursy](https://to.twoje-kursy.pl/)
 
 ## Programming languages
 - Python - basic level
