@@ -26,6 +26,8 @@ Currently, as part of improving my skills, I participate in a training course on
 - Jira - basic level
 - Mantis - basic level
 - TestRail - basic level
+- Postman - basic level
+- Selenium IDE - basic level
 - Quantum GIS - basic level
 - ArcGIS - intermediate level
 - MS Office - intermediate level
