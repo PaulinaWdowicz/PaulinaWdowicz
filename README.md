@@ -16,7 +16,7 @@ Currently, as part of improving my skills, I participate in a training course on
 
 ## My bug report - examples
 - [GEN-1](https://www.dropbox.com/sh/5xittvc8vfcpcto/AACVeFsPimxw6ri-MX2lfLMIa?dl=0)
-- [GEN-2 ](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0)
+- [GEN-2](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0)
 - [GEN-3](https://www.dropbox.com/sh/prgy0spvgcz66a0/AAD8cOnRz23dJRgCrjiyugtka?dl=0)
 
 ## My test case - example
@@ -33,7 +33,7 @@ Currently, as part of improving my skills, I participate in a training course on
 - MS Office - intermediate level
 
 ## Courses
-- [uTest Academy](https://www.utest.com/) - testing course - in progress
+- [uTest Academy](https://www.utest.com/) - testing course
 - [Test.IO](https://tester.test.io/) - testing course - in progress
 - Fundamentals of Software Testing - [QATestLab](https://qatestlab.com/)
 - Manual Software Testing Basics - [Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
