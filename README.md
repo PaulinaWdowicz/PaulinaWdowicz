@@ -26,6 +26,7 @@ Currently, as part of improving my skills, I participate in a training course on
 - Jira - basic level
 - Mantis - basic level
 - TestRail - basic level
+- TestLink - basic level
 - Postman - basic level
 - Selenium IDE - basic level
 - Quantum GIS - basic level
@@ -43,11 +44,6 @@ Currently, as part of improving my skills, I participate in a training course on
 - Introduction to Python – [365 DataScience](https://365datascience.com/courses/introduction-to-python/)
 - Certificate of completion of the training "Specialty Programmer - Basics of Python" - Code Academy
 - Certificate of Completion "Python for Beginners" Courses - Udemy
-
-## Webinars
-- Testing marathon - GoIT
-- Software testing course - Programming Technique - YouTube
-- How to Become a Software Tester - [Twoje Kursy](https://to.twoje-kursy.pl/)
 
 ## Programming languages
 - Python - basic level
