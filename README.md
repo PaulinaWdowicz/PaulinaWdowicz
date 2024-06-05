@@ -11,7 +11,7 @@ Currently, as part of improving my skills, I participate in a training course on
 
 ## Experience in testing
 - [CYBID sp. z o. o. sp. k.] junior tester from 06.2023
-  - performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
+  - Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
   - Creating and maintaining test scenarios and test occurrences.
   - Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
   - Designing, developing and maintaining scripts that automate the testing process in LUA.
