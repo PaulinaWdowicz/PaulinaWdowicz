@@ -9,7 +9,14 @@ Currently, as part of improving my skills, I participate in a training course on
 - paulina.wdowicz1@gmail.com
 - https://inkedin.com/in/paulina-wdowicz
 
-## Experience in manual testing
+## Experience in testing
+- [CYBID sp. z o. o. sp. k.] junior tester in Cybid
+  - performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
+  - Creating and maintaining test scenarios and test occurrences.
+  - Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
+  - Designing, developing and maintaining scripts that automate the testing process in LUA.
+  - Creating programs that automate testing in LUA, which are part of the testing process and reduce access time to perform regression tests.
+  - Preparing and updating test documentation in Markdown, including reports, test confirmation and test scenario confirmation. 
 - manual testing of the BDO web application (Database on products, packaging and waste management)
 - [uTest Academy](https://www.utest.com/) - performing manual tests and test cases on crowdtesting platform
 - [Test.IO](https://tester.test.io/) - reproducing test cases
@@ -23,6 +30,7 @@ Currently, as part of improving my skills, I participate in a training course on
 - [GEN_TEST-1](https://www.dropbox.com/s/p5ijwlecivzgdc0/GEN_TEST-1.xlsx?dl=0)
 
 ## Knowledge
+- EasyRedmine - intermediate level
 - Jira - basic level
 - Mantis - basic level
 - TestRail - basic level
@@ -46,5 +54,6 @@ Currently, as part of improving my skills, I participate in a training course on
 - Certificate of Completion "Python for Beginners" Courses - Udemy
 
 ## Programming languages
+- LUA - basic level
 - Python - basic level
 - SQL - basic level
