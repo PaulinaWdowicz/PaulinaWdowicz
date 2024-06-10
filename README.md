@@ -3,14 +3,14 @@
 My name is Paulina Wdowicz. In 2019, I graduated with the title of MSc. at the Warsaw University of Technology (Faculty of Building Installations, Faculty of Hydro and Environmental Engineering). During my engineering studies at Warsaw University of Technology, I was a part of WUT Students’ Council, where I got
 invaluable experience in student project planning and execution. Since graduation, I have worked in the field of waste management in the two largest waste management companies in Warsaw: MPO sp .z o.o. and "BYŚ" by Wojciech Byśkiniewicz. Working in the above positions related to waste records required meticulousness and repeatability. In addition, at the turn of 2019 and 2020, I had the opportunity to participate in the tests of the BDO web application (Database on products, packaging and waste management).
 
-Currently, as part of improving my skills, I participate in a training course on software testing on crowd-testing platforms like uTEST and Test.IO and SQL on W3Schools.com. What's more, I'm taking an upper-intermediate English course. For the last months I have been developing my skills in the area of manual testing of IT products. I would like to use my personal qualities and past experience in new challenging QA projects.
+Currently, I work as a manual software tester, where I am responsible for, among others: testing manual desktop applications, reporting errors, designing and creating scripts to automate testing in LUA and preparing test documentation.
 
 #### Contact me
 - paulina.wdowicz1@gmail.com
 - https://inkedin.com/in/paulina-wdowicz
 
 ## Experience in testing
-- [CYBID sp. z o. o. sp. k.] junior tester from 06.2023
+- CYBID sp. z o. o. sp. k., junior tester from 06.2023
   - Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
   - Creating and maintaining test scenarios and test occurrences.
   - Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
