@@ -11,20 +11,19 @@ Currently, I work as a manual software tester, where I am responsible for, among
 
 ## Experience in testing
 - CYBID sp. z o. o. sp. k., junior tester from 06.2023
-  - Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
-  - Creating and maintaining test scenarios and test occurrences.
-  - Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
-  - Designing, developing and maintaining scripts that automate the testing process in LUA.
-  - Creating programs that automate testing in LUA, which are part of the testing process and reduce access time to perform regression tests.
-  - Preparing and updating test documentation in Markdown, including reports, test confirmation and test scenario confirmation. 
+  -  Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
+  -  Creating and maintaining test scenarios and test occurrences.
+  -  Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
+  -  Designing, developing and maintaining LUA scripts that automate the testing process. using the in-house software wrapper.
+  -  Cooperation with the development team to creating requirements for the in-house SWIG-based software wrapper, creating programs that automate testing in LUA,
+  -  Preparing and updating test documentation in Markdown, including reports, test confirmation and test scenario confirmation. 
 - manual testing of the BDO web application (Database on products, packaging and waste management)
 - [uTest Academy](https://www.utest.com/) - performing manual tests and test cases on crowdtesting platform
 - [Test.IO](https://tester.test.io/) - reproducing test cases
 
 ## My bug report - examples
-- [GEN-1](https://www.dropbox.com/sh/5xittvc8vfcpcto/AACVeFsPimxw6ri-MX2lfLMIa?dl=0)
-- [GEN-2](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0)
-- [GEN-3](https://www.dropbox.com/sh/prgy0spvgcz66a0/AAD8cOnRz23dJRgCrjiyugtka?dl=0)
+- Project_1 [GEN-1](https://www.dropbox.com/sh/5xittvc8vfcpcto/AACVeFsPimxw6ri-MX2lfLMIa?dl=0), [GEN-2](https://www.dropbox.com/sh/420ohqjt15k9ifa/AAChMvVOnXJKsLw8TU6i3jzva?dl=0), [GEN-3](https://www.dropbox.com/sh/prgy0spvgcz66a0/AAD8cOnRz23dJRgCrjiyugtka?dl=0)
+- Project_1 [BugReport_1](https://drive.google.com/drive/folders/1SDznYXBy3zJxxyFDkS4DMPASZ9p7ETfU?usp=sharing), [BugReport_2](https://drive.google.com/drive/folders/19WWKaxSYoVBT4-069oa8AmbCYfpcfqK9?usp=sharing), [BugReport_3](https://drive.google.com/drive/folders/1U6T6R0PGr902l6NtHbC-oFmF_5Jb-nqB?usp=sharing)
 
 ## My test case - example
 - [GEN_TEST-1](https://www.dropbox.com/s/p5ijwlecivzgdc0/GEN_TEST-1.xlsx?dl=0)
