@@ -10,7 +10,7 @@ In 2019, I graduated with the title of MSc. at the Warsaw University of Technolo
 - https://inkedin.com/in/paulina-wdowicz
 
 ## Experience in testing
-- CYBID sp. z o. o. sp. k., junior tester from 06.2023
+- CYBID sp. z o. o. sp. k., junior manual tester from 06.2023
   -  Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
   -  Creating and maintaining test scenarios and test occurrences.
   -  Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
