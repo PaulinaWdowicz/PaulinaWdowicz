@@ -1,7 +1,6 @@
 ### About me
 
-My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human body simulation desktop program suite(engineering; traffic accident physical simulations). Experienced in cooperation with programming and QA teams to develop and ship bug-free, intuitive software. Participated in 2 program releases and 4minor patch releases. Previously, I worked in the field of waste management in the two largest waste management companies in Warsaw. My position required me to be precise, to pay attention to details, to stay in contact with customers and to meet deadlines. Passionate about video games (Witcher, Gothic), streaming and tabletop RPGs.
-
+My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human body simulation desktop program suite(engineering; traffic accident physical simulations). Experienced in cooperation with programming and QA teams to develop and ship bug-free, intuitive software. Participated in 2 program releases and 4 minor patch releases. Previously, I worked in waste management at the two largest waste management companies in Warsaw. My position required me to be precise, to pay attention to details, to stay in contact with customers and to meet deadlines. Passionate about video games (Witcher, Gothic), streaming and tabletop RPGs.
 
 In 2019, I graduated with the title of MSc. at the Warsaw University of Technology (Faculty of Building Installations, Faculty of Hydro and Environmental Engineering). 
 
