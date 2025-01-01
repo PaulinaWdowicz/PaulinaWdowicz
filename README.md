@@ -30,6 +30,8 @@ In 2019, I graduated with the title of MSc. at the Warsaw University of Technolo
 
 ## Knowledge
 - EasyRedmine
+- GIT
+- VSC
 - Jira
 - Mantis
 - TestRail
