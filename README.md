@@ -26,16 +26,22 @@ My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human bo
 ## My test case - example
 - [GEN_TEST-1](https://www.dropbox.com/s/p5ijwlecivzgdc0/GEN_TEST-1.xlsx?dl=0)
 
-## Knowledge
+## Technical skills
 - EasyRedmine
 - Jira
 - Mantis
+- GIT
 - TestRail
 - TestLink
 - Postman
 - Selenium IDE
+- SQL
 - Quantum GIS
 - ArcGIS
+
+## Programming languages
+- LUA
+- Python
 
 ## Courses
 - [uTest Academy](https://www.utest.com/) - testing course
@@ -49,7 +55,3 @@ My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human bo
 - Certificate of completion of the training "Specialty Programmer - Basics of Python" - Code Academy
 - Certificate of Completion "Python for Beginners" Courses - Udemy
 
-## Programming languages
-- LUA
-- Python
-- SQL
