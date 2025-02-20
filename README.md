@@ -1,8 +1,6 @@
 ### About me
 
-My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human body simulation desktop program suite(engineering; traffic accident physical simulations). Experienced in cooperation with programming and QA teams to develop and ship bug-free, intuitive software. Participated in 2 program releases and 4 minor patch releases. Previously, I worked in waste management at the two largest waste management companies in Warsaw. My position required me to be precise, to pay attention to details, to stay in contact with customers and to meet deadlines. Passionate about video games (Witcher, Gothic), streaming and tabletop RPGs.
-
-In 2019, I graduated with the title of MSc. at the Warsaw University of Technology (Faculty of Building Installations, Faculty of Hydro and Environmental Engineering). 
+My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human body simulation desktop program suite (engineering; traffic accident physical simulations). Experienced in cooperation with programming and QA teams to develop and ship bug-free, intuitive software. Participated in 2 program releases and 4 minor patch releases. Previously, I worked in waste management at the two largest waste management companies in Warsaw. My position required me to be precise, to pay attention to details, to stay in contact with customers and to meet deadlines. Passionate about video games (Witcher, Gothic), streaming and tabletop RPGs.
 
 #### Contact me
 - paulina.wdowicz1@gmail.com
@@ -10,12 +8,13 @@ In 2019, I graduated with the title of MSc. at the Warsaw University of Technolo
 
 ## Experience in testing
 - CYBID sp. z o. o. sp. k., junior manual tester from 06.2023
-  -  Performing functional, regression and exploratory tests to detect defects and ensure compliance with software requirements.
-  -  Creating and maintaining test scenarios and test occurrences.
-  -  Documenting test results in Easy Redmine, reporting errors and working with developers to resolve them.
-  -  Designing, developing and maintaining LUA scripts that automate the testing process. using the in-house software wrapper.
-  -  Cooperation with the development team to creating requirements for the in-house SWIG-based software wrapper, creating programs that automate testing in LUA,
-  -  Preparing and updating test documentation in Markdown, including reports, test confirmation and test scenario confirmation. 
+  - Perform functional, regression, and exploratory testing to identify defects and ensure software compliance with requirements.
+  - Create and maintain test scenarios and test cases to support software validation.
+  - Document test results in Easy Redmine, report defects, and collaborate with the development team to resolve issues.
+  - Develop automated test scripts in LUA and Python to enhance testing efficiency and reduce regression testing time.
+  - Design, implement and maintain test automation scripts in LUA and Python to optimize the testing process.
+  - Prepare and update test documentation in Markdown, including test plans, test reports and test scenario specifications.
+  - Work in a Scrum environment, participating in daily stand-ups, sprint planning, and retrospectives to ensure efficient and Agile software development. 
 - manual testing of the BDO web application (Database on products, packaging and waste management)
 - [uTest Academy](https://www.utest.com/) - performing manual tests and test cases on crowdtesting platform
 - [Test.IO](https://tester.test.io/) - reproducing test cases
