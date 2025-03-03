@@ -7,7 +7,7 @@ My name is Paulina Wdowicz. I work as a manual tester for a vehicle and human bo
 - https://inkedin.com/in/paulina-wdowicz
 
 ## Experience in testing
-- CYBID sp. z o. o. sp. k., junior manual tester from 06.2023
+- CYBID sp. z o. o. sp. k., junior manual tester 06.2023 - 02.2025
   - Perform functional, regression, and exploratory testing to identify defects and ensure software compliance with requirements.
   - Create and maintain test scenarios and test cases to support software validation.
   - Document test results in Easy Redmine, report defects, and collaborate with the development team to resolve issues.
