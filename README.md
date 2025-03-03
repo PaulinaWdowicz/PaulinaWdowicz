@@ -28,6 +28,8 @@ My name is Paulina Wdowicz. I worked as a manual tester for a vehicle and human 
 
 ## Technical skills
 - EasyRedmine
+- GIT
+- VSC
 - Jira
 - Mantis
 - GIT
