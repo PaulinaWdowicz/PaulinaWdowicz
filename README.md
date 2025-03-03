@@ -54,6 +54,7 @@ My name is Paulina Wdowicz. I worked as a manual tester for a vehicle and human 
 - Testing marathon - [GoIT](https://goit.global/pl/)
 - Introduction to SQL: Data Management and Querying - [Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql)
 - Introduction to Python – [365 DataScience](https://365datascience.com/courses/introduction-to-python/)
+- UX & UI - The Art of Usable Design - [Strefa kursów](https://strefakursow.pl/product/show/1043)
 - Certificate of completion of the training "Specialty Programmer - Basics of Python" - Code Academy
 - Certificate of Completion "Python for Beginners" Courses - Udemy
 
